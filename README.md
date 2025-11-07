@@ -5,8 +5,6 @@ Flight delays are a major challenge in the aviation industry, leading to operati
 
 This project integrates **Big Data concepts** and **Machine Learning models** to create a scalable and intelligent **Flight Delay Prediction System**.
 
----
-
 ### 🔹 Core Features
 
 #### 📊 Data Preprocessing & Cleaning
@@ -50,4 +48,3 @@ Implements and compares five models:
 - Generates clear, explainable insights into **delay causes**.  
 - Helps airlines make **proactive scheduling** and **operational decisions**.  
 
----
