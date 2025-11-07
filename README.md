@@ -102,6 +102,51 @@ Implements and compares five models:
 
 The project follows a structured **Machine Learning pipeline** — from raw data preprocessing to model evaluation and visualization.
 
-![Banner]([https://github.com/anusha-buchipalli/-Flight-Delay-Prediction-using-Big-Data-Machine-Learning-/blob/main/image.png?raw=true))
+
+### 🧠 **Model Flow Image**
+![Model Flow](https://github.com/anusha-buchipalli/-Flight-Delay-Prediction-using-Big-Data-Machine-Learning-/blob/main/image.png?raw=true)
+
+---
+
+## 📊 Results and Performance Comparison
+
+| **Model** | **Accuracy** | **Precision** | **Recall** | **F1-score** | **Remarks** |
+|------------|---------------|----------------|--------------|----------------|--------------|
+| SVM | 0.82 | 0.80 | 0.76 | 0.78 | Performs well but limited by linear separability |
+| Logistic Regression | 0.83 | 0.81 | 0.78 | 0.79 | Simple & interpretable baseline |
+| LightGBM | 0.88 | 0.86 | 0.84 | 0.85 | Fast and accurate |
+| XGBoost | 0.90 | 0.88 | 0.87 | 0.87 | Best balance of speed and performance |
+| CatBoost | **0.91** | **0.89** | **0.88** | **0.88** | Best overall accuracy, great with categorical data |
+
+✅ **Winner:** CatBoost  
+✅ **Best Balance:** XGBoost  
+✅ **Fastest Training:** LightGBM  
+
+---
+
+## 💡 Key Insights
+
+- **Top delay causes:** Weather, late aircraft, and NAS congestion.  
+- **Boosting models** (LightGBM, XGBoost, CatBoost) outperform traditional linear models.  
+- **CatBoost** achieved the **highest accuracy (91%)**, requiring minimal preprocessing.  
+- Provides actionable insights to airlines for better scheduling and proactive delay management.
+
+---
+
+## 🧰 How to Run Locally
+
+```bash
+# Clone the repository
+git clone https://github.com/<your-username>/Flight-Delay-Prediction.git
+cd Flight-Delay-Prediction
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the notebook or script
+jupyter notebook flight_delay_prediction.ipynb
+# or
+python flight_delay_model.py
+
 
 
