@@ -106,7 +106,20 @@ The project follows a structured **Machine Learning pipeline** — from raw data
 ### 🧠 **Model Flow Image**
 ![Model Flow](https://github.com/anusha-buchipalli/-Flight-Delay-Prediction-using-Big-Data-Machine-Learning-/blob/main/image.png?raw=true)
 
+
 ---
+
+### 🧠 **Highlights of the Architecture**
+
+- Modular structure for **easy maintenance and scalability**.  
+- Supports multiple ML models for performance benchmarking.  
+- Compatible with **Big Data frameworks** (Hadoop/Spark) for large-scale datasets.  
+- Clear data flow from ingestion → transformation → prediction → visualization.  
+
+---
+
+> 🧩 *This architecture ensures that the entire flight delay prediction process — from raw data to insights — is efficient, interpretable, and scalable.*
+
 
 ## 📊 Results and Performance Comparison
 
@@ -122,7 +135,7 @@ The project follows a structured **Machine Learning pipeline** — from raw data
 ✅ **Best Balance:** XGBoost  
 ✅ **Fastest Training:** LightGBM  
 
----
+
 
 ## 💡 Key Insights
 
