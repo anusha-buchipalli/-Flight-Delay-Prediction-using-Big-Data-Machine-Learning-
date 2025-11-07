@@ -101,6 +101,6 @@ Implements and compares five models:
 ## 🧩 Model Flow
 
 The project follows a structured **Machine Learning pipeline** — from raw data preprocessing to model evaluation and visualization.
-![Banner](https://github.com/anusha-buchipalli/Know-Your-Air-PM2.5-Prediction-with-LIME/blob/main/generated-image.png?raw=true)
+![Banner]([https://github.com/anusha-buchipalli/Know-Your-Air-PM2.5-Prediction-with-LIME/blob/main/generated-image.png?raw=true](https://github.com/anusha-buchipalli/-Flight-Delay-Prediction-using-Big-Data-Machine-Learning-/blob/main/image.png?raw=true))
 
 
