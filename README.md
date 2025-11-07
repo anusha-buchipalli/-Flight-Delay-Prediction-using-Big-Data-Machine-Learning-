@@ -8,7 +8,7 @@ With the rise of **Big Data technologies**, it is now possible to analyze massiv
 
 This project leverages **Machine Learning (ML)** models and **Big Data analytics** to predict whether a flight will be delayed or not, based on multiple operational and environmental factors such as **weather, air traffic, carrier performance, and late aircraft delays**.  
 
----
+
 
 ## 🎯 Objectives
 
@@ -18,7 +18,7 @@ This project leverages **Machine Learning (ML)** models and **Big Data analytics
 - To identify key features contributing to flight delays.  
 - To assist airlines in proactive decision-making and scheduling optimization.
 
----
+
 
 ## ⚙️ Tech Stack
 
@@ -51,7 +51,7 @@ This project leverages **Machine Learning (ML)** models and **Big Data analytics
 
 This project integrates **Big Data concepts** and **Machine Learning models** to create a scalable and intelligent **Flight Delay Prediction System**.
 
----
+
 
 ### 🔹 Core Features
 
@@ -96,7 +96,7 @@ Implements and compares five models:
 - Generates clear, explainable insights into **delay causes**.  
 - Helps airlines make **proactive scheduling** and **operational decisions**.  
 
----
+
 
 ## 🧩 Model Flow
 
